@@ -1,6 +1,8 @@
 Package.describe({
   name: 'miar:autoform-cuilmask',
   summary: 'Custom cuil masked input type for AutoForm',
+  documentation: './README.md',
+  git: 'https://github.com/jkutianski/meteor-autoform-cuilmask.git',
   version: '0.0.1'
 });
 
