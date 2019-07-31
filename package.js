@@ -6,7 +6,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.use([
-    'ecmascript',
+    'ecmascript@0.6.3',
     'templating@1.0.0',
     'blaze@2.0.0',
     'underscore@1.0.0',
