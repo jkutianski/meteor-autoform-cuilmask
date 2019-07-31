@@ -30,16 +30,16 @@ const SimpleSchemaCUILField = new SimpleSchema({
 
 The plugin return 3 types of error messages:
 
- `invalidTypeCUIL` the 2 fist positions are invalid.
- `invalidSizeCUIL` the number hasn't 11 digits.
- `invalidDvCUIL` the CRC digit is invalid.
+* `invalidTypeCUIL` the 2 fist positions are invalid.
+* `invalidSizeCUIL` the number hasn't 11 digits.
+* `invalidDvCUIL` the CRC digit is invalid.
 
 
 El plugin retorna 3 tipos de mensajes de error:
 
- `invalidTypeCUIL` las 2 primeras posisiones son invalidas.
- `invalidSizeCUIL` el cuit no tiene 11 digitos.
- `invalidDvCUIL` el digito de CRC es invalido.
+* `invalidTypeCUIL` las 2 primeras posisiones son invalidas.
+* `invalidSizeCUIL` el cuit no tiene 11 digitos.
+* `invalidDvCUIL` el digito de CRC es invalido.
 
 
 ```
